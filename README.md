@@ -130,3 +130,8 @@ The codebase follows these principles:
 - Consistent naming conventions
 - Constants extraction for maintainability
 - Comprehensive documentation and testing
+
+## TODO
+- Pagination support
+- Caching results
+- Image caching
